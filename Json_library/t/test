@@ -1,0 +1,11 @@
+{
+    "glossary": {
+        "title": "example glossary",
+	"GlossDiv": [
+		 200,
+		null,
+		 0.231,
+		 -2.3E+5
+        	    ]
+    		}
+}
